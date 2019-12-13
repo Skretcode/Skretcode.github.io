@@ -23,7 +23,7 @@ email: raoul.guiazon@gmail.com
 description: >
  Sharing my fascination for science in secret with the world
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https:skretcode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RGuiazon
 github_username:  Skretcode
 
