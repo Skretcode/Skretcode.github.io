@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+ Just another human mesmerised by the beauty of the universe and embarking on a journey to understand it.
+ "We evolved a body to experience the world and a mind to make sense of it" - Me and probably many others. 
+ Like the previous sentence, the content of this website represents my own evolving view of the world with the unavoidable biases due to my physical incarnation and past experiences. Though, I will endeavour to build any argument logically from well stated assumptions. 
+ I wish this journey to be rich of surpises and encounters. Follow me and message me on [twitter](https://twitter.com/RGuiazon) @RGuiazon.  
